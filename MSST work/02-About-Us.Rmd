@@ -1,0 +1,12 @@
+# About Us
+
+This chapter contains information involving **About Us**.
+
+```
+This text looks like this.
+```
+
+(ref:foo) Define a text reference **here**. `Example`
+
+```The reference
+```

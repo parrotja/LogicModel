@@ -1,0 +1,66 @@
+# Resources
+
+This chapter contains information involving **Resources**.
+
+## Data Collection: Methods
+> Test to see what this block of text will look like
+>
+
+## Data Analysis
+
+### Data Analysis Strategies {-}
+### Data Cleaning {-}
+### Explanation Versus Description {-}
+### Complex Questions {-}
+
+## Data Extraction
+
+### Navigating SRDR+ {-}
+
+#### SRDR 1. Getting Started {-}
+#### SRDR 2. Setting Up Your Project {-}
+##### Special Topic: One or Multiple Projects? {-}
+##### Special Topic: Project Communication {-}
+
+#### SRDR 3. Citation Phase Management {-}
+##### Special Topic: Living Reviews {-}
+##### Special Topic: Living Reviews {-}
+```
+This section is an existing page to modify or move
+```
+
+#### SRDR 4. Uploading Article Citations {-}
+#### SRDR 5. Screening {-}
+#### SRDR 6. Tips for Creating a Data Extraction Template {-}
+##### SRDR 6.1. General Principle for Structuring Questions {-}
+##### SRDR 6.2. Setting up Arm or Diagnostic Test Suggestions {-}
+##### SRDR 6.3. The Importance of Arms or Diagnostic Test Details {-}
+##### SRDR 6.4. Setting up Outcome or Diagnoses Suggestions {-}
+##### SRDR 6.5. What Other Fields Do I Need to Extract? {-}
+##### SRDR 6.6. Risk of Bias {-}
+##### Special Topic: Biomarkers and Molecular Pathways {-}
+
+#### SRDR 7. Assigning Articles for Extraction {-}
+#### SRDR 8. Entering Data {-}
+#### SRDR 9. Consolidating Extractions {-}
+#### SRDR 10. Publishing and Evidence Maps {-}
+
+## Evidence Synthesis Resources
+
+### Synthesis of Clinical and Epidemiological Data {-}
+### Integrative Logic Model Syntheses {-}
+### Scoping Reviews and Evidence Maps {-}
+### Evidence Synthesis Planning and Overview {-}
+#### Formulating the Question and Protocol {-}
+#### Building the Team {-}
+#### Systematic Searches {-}
+#### Assessing Risk of Bias and Strength of Evidence {-}
+##### Integrating RoB and SoE Across Levels of a Logic Model {-}
+##### Special Topic: Drawing Inferences for Complex Questions {-}
+
+#### Data Analysis {-}
+##### Data Cleaning {-}
+##### Explanation Versus Description {-}
+##### Complex Questions {-}
+
+#### Quality Assurance {-}
